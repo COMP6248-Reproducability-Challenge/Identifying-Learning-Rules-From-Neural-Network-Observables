@@ -1,5 +1,5 @@
 # Identifying-Learning-Rules-From-Neural-Network-Observables
-Coursework of Deep Learning  of University of Southampton in 2021
+Coursework of Deep Learning in 2021
 
 [Team Work]
 
