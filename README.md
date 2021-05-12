@@ -2,10 +2,10 @@
 Coursework of Deep Learning in 2021
 
 [Team Work]
-Jiawen --  trajectory subsampling
-Chuang -- quantifying separation
-Zhaoxing -- gini feature importance analysis
-Jiawei -- noise robustness
+Jiawen --  trajectory subsampling/t
+Chuang -- quantifying separation/t
+Zhaoxing -- gini feature importance analysis/t
+Jiawei -- noise robustness/t
 
 Team members conducted experiments, analyzed the results and wrote corresponding reports.
 
