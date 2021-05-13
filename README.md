@@ -1,7 +1,14 @@
 # Identifying-Learning-Rules-From-Neural-Network-Observables
 Coursework of Deep Learning in 2021
 
-[Team Work]
+【ECS_ID】
+
+jh3n20
+cd5g20
+zg2u20
+jq1u20
+
+【Team Work】
 
 Jiawen --  trajectory subsampling
 
@@ -13,7 +20,7 @@ Jiawei -- noise robustness
 
 Team members conducted experiments, analyzed the results and wrote corresponding reports.
 
-[Abstract]
+【Abstract】
 
 The paper introduced a virtual experiment to infer the learning algorithm which modifies the parameters of a neural network, from the trajectory it induces. A number of different deep artificial neural network models are trained on ImageNet tasks with four learning algorithms. While learning proceeds, the authors collect aggregate statistics. These aggregate quantities are then used as predictors to train simple classifiers, which attempt to discriminate which of the four learning rules trained the model. We divide the authors' work into four parts and verify the results separately: quantifying separation, gini feature importance analysis, trajectory subsampling, noise robustness. We have partially successfully reproduced the relevant experiments in the original paper and confirmed some of the conclusions of the original paper.
 
